@@ -17,3 +17,5 @@ A **3NF-compliant MySQL database** designed to analyze IBM HR data and identify 
 
 ## 📂 For more details, see other files.
 
+## Sample Query& Results
+![image](https://github.com/user-attachments/assets/ebe4280e-9f56-479e-8e03-55dd53369bf1)
